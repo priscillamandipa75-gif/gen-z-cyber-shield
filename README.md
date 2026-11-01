@@ -1,4 +1,4 @@
-# gen-z-cyber-shield
+# Gen-z CyberShield
 A cybersecurity awareness guide designed to educate students about common online threats and safe digital practices and how to protect oneself when online.
 ## project goals 
 - raise awareness of phishing and malware attacks
