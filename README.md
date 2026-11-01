@@ -17,4 +17,4 @@ main targets for this guide are the student and young adults
  - protects personal information to prevent identity theft
  - creates good security habits which creates a safe and secure environment when online 
  - protects one from malware attacks which may lead to loss of important information 
- - encourages one to not let their guard down and sharing their personal information which may later be used against them 
+ - encourages one to not let their guard down and prevent them from sharing their personal information which may later be used against them 
